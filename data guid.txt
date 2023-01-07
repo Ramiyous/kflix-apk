@@ -1,153 +1,149 @@
-{ "ADS":
+{
+	"ADS": {
+		 "banner_type": "yandex",
+		"inter_type": "yandex",
+		"native_type": "yandex",
+		"reward_type": "yandex",
+
+		 
+		"ironsource_id": "4292105",
+
+ 
+		"unity_id": "4973453",
+
+		"banner_yandex": "R-M-2131454-1",
+		"interstitial_yandex": "R-M-2131454-3",
+		"native_yandex": "R-M-2131454-2",
+		"rewarde_yandex": "R-M-2131454-4",
+
+		"interstitial_yandex1": "R-M-2131454-3",
+		"rewarde_yandex1": "R-M-2131454-4",
+
+		"interstitial_yandex2": "R-M-2131454-3",
+		"rewarde_yandex2": "R-M-2131454-4",
+
+		"interstitial_yandex_1": "R-M-2131454-3",
+		"rewarde_yandex_1": "R-M-2131454-4",
+
+		"interstitial_yandex_2": "R-M-2131454-3",
+		"rewarde_yandex_2": "R-M-2131454-4",
+		
+
+		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
+		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
+		"native_admob": "ca-app-pub-3940256099942544/2247696110",
+		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
+
+		"interstitial_admob1": "ca-app-p12",
+ 		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
+
+		"interstitial_admob2": "ca-app-pub-3940256099942544/1033173712",
+ 		"rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
+
+		"applovin_banner": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
+		"applovin_interstitial": "ca-app-pub-4567",
+		"applovin_reward": "ca-app-pub-4567",
+		"applovin_native": "ca-app-pub-4567",
+
+		
+		"facebook_reward": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
+		"facebook_banner": "ca-app-pub-4567",
+		"facebook_interstitial": "ca-app-pub-4567",
+		"facebook_native": "ca-app-pub-4567" 
+   }, "prinkdata": [
     {
-  
-     
-        "text_1":"this test text 1",
-      "text_2":"this test text 2",
-      "text_3":"this test text 3",
-        
-        "show_native_timer":false,
-      "timer":3,
-        
-      "banner_type_1":"admob",
-      "inter_type_1":"admob",
-      "inter_or_reward_1":"inter",
-      "native_type_1":"admob",
-      "reward_type_1":"admob",
-      "native_or_mrec_1":"native",
-
-      "banner_type_2":"admob",
-      "inter_type_2":"admob",
-      "inter_or_reward_2":"inter",
-      "native_type_2":"admob",
-      "reward_type_2":"admob",
-      "native_or_mrec_2":"native",
-
-     "banner_type_3":"admob",
-      "inter_type_3":"admob",
-      "inter_or_reward_3":"inter",
-      "native_type_3":"admob",
-      "reward_type_3":"admob",
-      "native_or_mrec_3":"native",
-
-      "banner_type_4":"admob",
-      "inter_type_4":"admob",
-      "inter_or_reward_4":"inter",
-      "native_type_4":"admob",
-      "reward_type_4":"admob",
-      "native_or_mrec_4":"native",
-
-       "banner_type_5":"admob",
-      "inter_type_5":"admob",
-      "inter_or_reward_5":"inter",
-      "native_type_5":"admob",
-      "reward_type_5":"admob",
-      "native_or_mrec_5":"native",
-
-     "banner_type_6":"admob",
-      "inter_type_6":"admob",
-      "inter_or_reward_6":"inter",
-      "native_type_6":"admob",
-      "reward_type_6":"admob",
-      "native_or_mrec_6":"native",
-
-      "ironsource_id":"ca-app-pub56099942",
-      "unityId":"ca-app-pub56099942",
-
-
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 1 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
       
-      "cpa_image":"R-M-DEMO-300x50",
-      "cpa_text":"R-M-DEMO-interstitial",
-      "cpa_title":"R-M-DEMO-native-i",
-      "cpa_url":"R-M-DEMO-300x50",
 
 
-      "banner_id_1":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_1":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_1":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_1":"ca-app-pub-3940256099942544/2247696110",
-    
 
-      "banner_id_2":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_2":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_2":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_2":"ca-app-pub-3940256099942544/2247696110",
-    
-      "banner_id_3":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_3":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_3":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_3":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_3":"ca-app-pub-3940256099942544/2247696110",
-    
-      "banner_id_4":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_4":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_4":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_4":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_4":"ca-app-pub-3940256099942544/2247696110",
-    
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 2 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
 
-     "banner_id_5":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_5":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_5":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_5":"ca-app-pub-3940256099942544/2247696110",
-        
-        
-         "banner_id_6":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_6":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_6":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_6":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_6":"ca-app-pub-3940256099942544/2247696110"
-    
-  
+
     },
-    "collections_names": [
-      {
-        "name": "Collection 1",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      }
-    ],
-    
-    "Collection 1": [
     {
-    "Wallpaper":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
-       "Wallpaper2":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-  },
-  {
-    "Wallpaper": "https://browsecat.net/sites/default/files/anime-cool-pic-wallpapers-60936-94745-8841980.png",
-       "Wallpaper2": "https://wallpaperaccess.com/full/6319352.jpg"
-  },
-  {
-    "Wallpaper": "https://wallpaperaccess.com/full/6319352.jpg",
-             "Wallpaper2":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 3 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
 
-  },
-  {
-   "Wallpaper": "https://i.pinimg.com/originals/d5/e1/bf/d5e1bf9c7156e464f5e656b93cd5c632.jpg",
-             "Wallpaper2":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
 
-  },
-  {
-    "Wallpaper": "https://cdn.statusqueen.com/desktopwallpaper/thumbnail/girl-night-raining-city-car-153.jpg",
-             "Wallpaper2":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 4 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
 
-  },
-  {
-    "Wallpaper": "https://www.whatspaper.com/wp-content/uploads/2021/03/4k-anime-wallpaper-whatspaper-1.jpg",
-             "Wallpaper2":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
 
-  },
-  {
-    "Wallpaper": "https://pbs.twimg.com/media/DEo05DuU0AAZ9VC.jpg",
-      "Wallpaper2":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 5 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
 
-  },
-  {
-    "Wallpaper": "https://images.alphacoders.com/549/thumb-1920-549450.png",
-             "Wallpaper2":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
 
-  }
-]
-  }
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 6 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
+
+    }
+  ],
+  "tv_data": [
+    {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 1 ",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+      
+
+
+
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 2 ",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+    },
+    {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 3 ",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 4 ",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 5 ",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 6 ",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+
+    }
+  ]
+}
